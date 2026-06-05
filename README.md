@@ -20,9 +20,7 @@ git clone https://github.com/yuhertz/BloxPayload
 cd BloxPayload
 ```
 
-Now download the chrome driver for it to run
-Go to https://googlechromelabs.github.io/chrome-for-testing/ and download version 151.0.7874.0
-After installing open the file you will see "chromedriver" move that to this file.
+
 
 Before Running, you need to modify the code in main.py
 change username123 to the target username
